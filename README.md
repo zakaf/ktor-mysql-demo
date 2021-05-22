@@ -1,4 +1,4 @@
-# Ktor + Mysql Demo Applications
+# Ktor + Mysql Demo
 
 ## Getting Started
 
